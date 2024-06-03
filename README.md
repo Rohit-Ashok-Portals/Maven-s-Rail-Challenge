@@ -93,41 +93,52 @@ Pie Chart: Revenue by Payment Method
 Bar Chart: Revenue by RailCard
 Insight:
 
-Standard Class and Advance Ticket Types are the major revenue contributors.
-Credit Card is the most popular payment method.
-Online purchases contribute slightly more than station purchases.
+
 4. Diagnose On-Time Performance and Contributing Factors
 Observations:
 
 On-time Journeys: 27k
+
 Delayed Journeys: 2,292
+
 Cancelled Journeys: 1,880
+
 Cancellation Rate: 5.94%
+
 Reasons for Delay (in order):
-Weather Conditions
+
+Weather Conditions-
+
 Technical Issues
 Signal Issues
 Staffing Issues
 Traffic
-Reasons for Cancellation (in order):
+Reasons for Cancellation (in order)-
+
 Signal Failure
 Staffing
 Weather Conditions
 Technical
 Traffic
+
 On-time performance by Ticket Class:
+
 Standard Class: 25k
 First Class: 3k
 On-time performance by Ticket Type:
 Advance Ticket: 5.3k
 Off-Peak: 7.7k
 Anytime: 4.5k
+
 On-time performance by Arrival Station:
+
 Birmingham New Street: 7.7k
 Liverpool Lime Street
 York
 Manchester Piccadilly
+
 Most delayed destinations:
+
 London Euston
 Liverpool Lime Street
 Birmingham New Street
@@ -135,9 +146,8 @@ Visualization:
 
 Pie Chart: Reasons for Delayed Journeys
 Pie Chart: Reasons for Cancelled Journeys
-Bar Chart: On-time performance by Ticket Class
-Bar Chart: On-time performance by Ticket Type
-Bar Chart: On-time performance by Arrival Station
+
+
 Bar Chart: Most Delayed Destinations
 Insight:
 
